@@ -25,16 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=amishagupta31&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amishagupta31&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amishagupta31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amishagupta31&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amishagupta31&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-[![](https://visitcount.itsvg.in/api?id=amishagupta31&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->k at your changes.
- 
