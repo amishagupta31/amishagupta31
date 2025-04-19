@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Amisha+Gupta!;Full+Stack+Developer+%7C+CSE+Student;Exploring+Blockchain+%26+Next.js+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
- # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology  <br>👯 I’m looking to collaborate on MERN ,  Next.js , and Blockchain projects  <br>🌱 I’m currently learning  Next.js  and exploring  Blockchain  concepts  <br>💬 Ask me about the MERN stack, Next.js, or beginner-level Blockchain development 
 
 
