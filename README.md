@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology  <br>👯 I’m looking to collaborate on MERN ,  Next.js , and Blockchain projects  <br>🌱 I’m currently learning  Next.js  and exploring  Blockchain  concepts  <br>💬 Ask me about the MERN stack, Next.js, or beginner-level Blockchain development 
+🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology  <br>👯 I’m looking to collaborate on MERN ,  Next.js , and Blockchain projects  <br>🌱 I’m currently learning  Next.js  and exploring Blockchain  concepts  <br>💬 Ask me about the MERN stack, Next.js, or beginner-level Blockchain development 
 
 
 ## 🌐 Socials:
