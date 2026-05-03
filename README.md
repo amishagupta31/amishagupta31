@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently a CSE student at NSHM Institute of Engineering and Technology  <br>👯 I’m looking to collaborate on MERN ,  Next.js , and Blockchain projects  <br>🌱 I’m currently learning  Next.js  and exploring Blockchain  concepts  <br>💬 Ask me about the MERN stack, Next.js, or beginner-level Blockchain development 
+🚀 Full-Stack Software Engineer building scalable, high-performance web applications and backend systems.
+
+💼 Delivered end-to-end solutions for real clients — from system design to deployment — with a strong focus on REST APIs, authentication, and performance optimization.
+
+⚙️ Specialized in backend engineering and real-time architectures using Node.js and FastAPI, with hands-on experience in Docker, AWS, and CI/CD pipelines.
+
+🏆 National Semi-Finalist – Flipkart GRiD 7.0  
+
+⚡ I focus on building production-ready systems that are efficient, scalable, and built to handle real-world load.
 
 
 ## 🌐 Socials:
@@ -15,7 +23,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amishagupta31&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=amishagupta31&icon=0&color=1)](https://visitcount.itsvg.in)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
