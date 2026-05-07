@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Backend+Specialist;FastAPI+%7C+Node.js+Developer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=D4FF00&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Backend+Specialist;FastAPI+%7C+Node.js+Developer;Building+Scalable+Systems" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Amisha Gupta</h1>
@@ -43,13 +43,12 @@
 
 </p>
 
- 
+ ⚡ GITHUB_ACTIVITY
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishagupta31&bg_color=000000&color=D4FF00&line=D4FF00&point=FFFFFF&hide_border=true"/> </p>
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=amishagupta31&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=amishagupta31&theme=onestar&no-frame=true&no-bg=true&margin-w=8"/> 
 </p>
 
 ---
